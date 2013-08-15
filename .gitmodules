@@ -1,0 +1,6 @@
+[submodule "vendor/sizzle"]
+	path = vendor/sizzle
+	url = git://github.com/jquery/sizzle.git
+[submodule "vendor/bacon"]
+	path = vendor/bacon
+	url = git://github.com/baconjs/bacon.js.git
